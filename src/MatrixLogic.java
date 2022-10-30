@@ -1,6 +1,6 @@
 /**
  * File: MatrixLogic.java
- * Project: Matrix Calculator
+ * Project: Matrix-Calculator
  * Date: October 2022
  * @author Neti-G
  */
