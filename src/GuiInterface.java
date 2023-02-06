@@ -12,8 +12,6 @@ import java.text.DecimalFormat;
 
 /**
  * The class which creates the GUI where the logic of the class MatrixLogic will be used.
- * 
- * @author Neti
  */
 public class GuiInterface{
 
